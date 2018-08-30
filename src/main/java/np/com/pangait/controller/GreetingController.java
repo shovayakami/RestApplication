@@ -1,4 +1,4 @@
-package pangait.controller;
+package np.com.pangait.controller;
 
 import np.com.pangait.model.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;

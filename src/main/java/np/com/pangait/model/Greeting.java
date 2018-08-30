@@ -1,4 +1,4 @@
-package pangait.model;
+package np.com.pangait.model;
 
 /**
  * Created by Shova Yakami Dangol on 4/8/2018 10:42 AM.
